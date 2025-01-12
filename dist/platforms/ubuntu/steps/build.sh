@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "!!!!!!!!!!!! ACTIVATION !!!!!!!!!!!!!!"
+echo "!!!!!!!!!!!! BUILD !!!!!!!!!!!!!!"
 echo "> PWD=`pwd`"
 ls -la .
 

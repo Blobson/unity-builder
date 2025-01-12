@@ -3,6 +3,7 @@
 echo "!!!!!!!!!!!! ACTIVATION !!!!!!!!!!!!!!"
 echo "> PWD=`pwd`"
 ls -la .
+sleep 120
 
 # if blankproject folder doesn't exist create it
 if [ ! -d "/BlankProject" ]; then
