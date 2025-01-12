@@ -2,6 +2,8 @@
 
 echo "!!!!!!!!!!!! ACTIVATION !!!!!!!!!!!!!!"
 echo "> PWD=`pwd`"
+echo "> GITHUB_WORKSPACE=$GITHUB_WORKSPACE"
+echo "> PROJECT_PATH=$PROJECT_PATH"
 ls -la .
 sleep 120
 
