@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
-echo "> UNAME=`uname -a`"
+echo "!!!!!!!!!!!! ACTIVATION !!!!!!!!!!!!!!"
 echo "> PWD=`pwd`"
-echo "> PROJECT_PATH=$PROJECT_PATH"
 ls -la .
 
 sleep 1800

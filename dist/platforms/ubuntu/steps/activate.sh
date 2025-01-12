@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+echo "!!!!!!!!!!!! ACTIVATION !!!!!!!!!!!!!!"
+echo "> PWD=`pwd`"
+ls -la .
+
 # if blankproject folder doesn't exist create it
 if [ ! -d "/BlankProject" ]; then
   mkdir /BlankProject
