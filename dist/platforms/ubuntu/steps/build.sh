@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
-echo "!!!!!!!!!!!! BUILD !!!!!!!!!!!!!!"
-echo "> PWD=`pwd`"
-echo "> GITHUB_WORKSPACE=$GITHUB_WORKSPACE"
-echo "> PROJECT_PATH=$PROJECT_PATH"
-ls -la .
+# echo "!!!!!!!!!!!! BUILD !!!!!!!!!!!!!!"
+# echo "> PWD=`pwd`"
+# echo "> GITHUB_WORKSPACE=$GITHUB_WORKSPACE"
+# echo "> PROJECT_PATH=$PROJECT_PATH"
+# ls -la .
 
-sleep 1800
+# sleep 1800
 
 #
 # Set project path

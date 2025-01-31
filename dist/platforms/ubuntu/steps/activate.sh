@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-echo "!!!!!!!!!!!! ACTIVATION !!!!!!!!!!!!!!"
-echo "> PWD=`pwd`"
-echo "> GITHUB_WORKSPACE=$GITHUB_WORKSPACE"
-echo "> PROJECT_PATH=$PROJECT_PATH"
-ls -la .
-sleep 120
+# echo "!!!!!!!!!!!! ACTIVATION !!!!!!!!!!!!!!"
+# echo "> PWD=`pwd`"
+# echo "> GITHUB_WORKSPACE=$GITHUB_WORKSPACE"
+# echo "> PROJECT_PATH=$PROJECT_PATH"
+# ls -la .
+# sleep 120
 
 # if blankproject folder doesn't exist create it
 if [ ! -d "/BlankProject" ]; then
